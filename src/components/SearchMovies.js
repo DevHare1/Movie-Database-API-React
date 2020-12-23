@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import TextField from "@material-ui/core/TextField";
 import { makeStyles } from "@material-ui/core/styles";
-import { Button, Card, CardContent, Typography } from "@material-ui/core";
+import { Button } from "@material-ui/core";
 import MovieCard from "./MovieCard";
 
 const useStyles = makeStyles((theme) => ({
